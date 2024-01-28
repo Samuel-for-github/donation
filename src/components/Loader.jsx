@@ -14,7 +14,7 @@ const Loader = () => {
        <h1 className="font-bold text-blue-500 text-3xl">{text} <Cursor/></h1>
       
        <div className='w-[720px]'>
-       {/* <Lottie animationData={animationData} /> */}
+       <Lottie animationData={animationData} />
        </div>
      
     </div>
